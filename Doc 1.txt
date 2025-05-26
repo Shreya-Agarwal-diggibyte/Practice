@@ -1,2 +1,1 @@
 It's a practice Document 
-Git is a version Control Software
